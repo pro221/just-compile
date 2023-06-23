@@ -1,0 +1,84 @@
+/* .App {
+  text-align: center;
+} */
+
+.nav{
+  background-color: #EB5656;
+  margin-top: 0px;
+  padding: 20px;
+ 
+ 
+}
+.nav ul li {
+  display: inline-block;
+  color: azure;
+  text-decoration: none;
+  padding-inline-start: 90%;
+}
+
+ .bar{
+  width: 583px;
+height: 82px;
+/* margin-left: 214px; */
+
+
+
+}
+.squarebox{
+  width: 400px;
+  height: 426px;
+/* top: -310px;
+left: 65px; */
+
+
+}
+
+
+.btn1{
+
+  /* width: 187px;
+  height: 49px;
+  top: 603px;
+  left: 662px; */
+  margin-left: 900px;
+     width: 100px;
+  height: 49px;
+  padding: 10px;
+  
+}
+.btn2{
+
+  width: 100px;
+  height: 49px;
+  padding: 10px;
+
+}
+.button{
+  margin-left: 30%;
+  width: 90px;
+}
+
+.inputbox{
+  display: block;
+  margin: 30px;
+  padding: 7px;
+  width: 400px;
+  margin-left: 30%;
+}
+.inputbox2{
+  margin-left: 30%;
+}
+
+
+.register{
+  
+  justify-content: center;
+}
+.login{
+  
+  margin-top: 100px; 
+
+}
+
+/*  */
+
